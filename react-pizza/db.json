@@ -1,0 +1,16 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "topping": "Pepperoni",
+      "size": "Small",
+      "vegetarian": false
+    },
+    {
+      "id": 2,
+      "topping": "Mushroom",
+      "size": "Large",
+      "vegetarian": true
+    }
+  ]
+}
